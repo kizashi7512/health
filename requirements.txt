@@ -1,3 +1,4 @@
-django
+Django
+django-widget-tweaks
 whitenoise
 gunicorn
